@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Updates" />
+        <activity android:name=".Help" />
+        <activity android:name=".Profile"></activity>
     </application>
 
 </manifest>
